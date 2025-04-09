@@ -167,10 +167,11 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/5a040ba0-b0aa-4aae-84e5-3ba7ece55bd4)
 
 
-![image](https://github.com/user-attachments/assets/c56b6484-dd72-4243-9f8e-afe796f5bc99)
-
-
 ![image](https://github.com/user-attachments/assets/137c5bce-4f0c-4379-ad2b-117c523ddce7)
+
+
+
+![image](https://github.com/user-attachments/assets/c56b6484-dd72-4243-9f8e-afe796f5bc99)
 
 
 
