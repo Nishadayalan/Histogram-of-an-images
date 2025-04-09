@@ -148,10 +148,19 @@ plt.show()
 # Register Number:212223230143
 ```
 ### Output of Bright Image:
-![image](https://github.com/user-attachments/assets/75ed1aaa-5e88-45d4-a59f-35b2ed35d83b)
+![image](https://github.com/user-attachments/assets/8bc05ede-fe5b-4a9d-86e5-a3a077e3bedf)
+![image](https://github.com/user-attachments/assets/5e631897-be1d-4bc8-a589-05ecb4ac7710)
+
+![image](https://github.com/user-attachments/assets/b171bca1-5a43-4741-99ef-a30f756fc5e4)
+![image](https://github.com/user-attachments/assets/9c32cfc6-912f-4cd4-a4e6-4214727ab413)
+
 
 ### Output of Dark Image:
-![image](https://github.com/user-attachments/assets/65eb5da6-b003-4ec8-a78f-b17dd5abf677)
+![image](https://github.com/user-attachments/assets/d1bc84f1-868b-42f8-9ab9-0f9107ab19c8)
+![image](https://github.com/user-attachments/assets/5a040ba0-b0aa-4aae-84e5-3ba7ece55bd4)
+![image](https://github.com/user-attachments/assets/c56b6484-dd72-4243-9f8e-afe796f5bc99)
+
+![image](https://github.com/user-attachments/assets/137c5bce-4f0c-4379-ad2b-117c523ddce7)
 
 
 
